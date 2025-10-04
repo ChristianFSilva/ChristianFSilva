@@ -1,4 +1,4 @@
-## Olá! Eu sou o Christian Silva 👋
+## Olá! Eu sou o Christian Silva Desenvolvedor Front-end Full Stack👋
 
 - 👍 Hoje trabalho com front-end
 
