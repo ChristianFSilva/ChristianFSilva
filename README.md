@@ -1,7 +1,7 @@
 ## Hello! I am Christian Silva Data Annotation Specialist👋
 
 - 👍 Today I work as a Data Annotation Specialist.
-
+</div>
   |-----|-----|
 | Polygon Segmentation | ![](images/polygon_segmentation.png) |
 | Bounding Boxes | ![](images/bounding_boxes.png) |
